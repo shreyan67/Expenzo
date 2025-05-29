@@ -2,7 +2,7 @@
 
 ## 🌐 GitHub Repo  
 ```bash
-https://github.com/Prakashsaw/Expense-Management-System
+https://github.com/shreyan67/Expense-Management-System
 ```
 
 ## 🚀 Live Demo  
@@ -43,7 +43,7 @@ It provides features like user authentication, expense tracking, and data visual
 
 ### **Step 1: Clone the project**  
 ```bash
-git clone https://github.com/Prakashsaw/Expense-Management-System.git
+git clone https://github.com/shreyan67/Expense-Management-System.git
 ```
 
 ### **Step 2: Navigate to the project directory**  
@@ -160,7 +160,7 @@ Once the setup is complete, the app will be running on your local system.
 ---
 
 ## 🛠 Made By  
-- [@Prakashsaw](https://github.com/Prakashsaw)  
+- [@Prakashsaw](https://github.com/shreyan67)  
 
 ---
 
